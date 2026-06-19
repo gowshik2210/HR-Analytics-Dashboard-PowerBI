@@ -184,25 +184,25 @@ Measures employee satisfaction levels and engagement metrics.
 
 ### Executive Overview
 
-![Executive Overview](./screenshots/page1.png)
+![Executive Overview](./screenshots/Page1.png)
 
 ---
 
 ### Employee Attrition Analysis
 
-![Employee Attrition Analysis](./screenshots/page2.png)
+![Employee Attrition Analysis](./screenshots/Page2.png)
 
 ---
 
 ### Salary & Performance Dashboard
 
-![Salary & Performance Dashboard](./screenshots/page3.png)
+![Salary & Performance Dashboard](./screenshots/Page3.png)
 
 ---
 
 ### Employee Satisfaction & Engagement Dashboard
 
-![Employee Satisfaction Dashboard](./screenshots/page4.png)
+![Employee Satisfaction Dashboard](./screenshots/Page4.png)
 
 ---
 
